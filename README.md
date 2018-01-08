@@ -1,6 +1,6 @@
 # Train a Smartcab to Drive
 
-As part of my Udacity Machine Learning Nanodegree, I applied reinforcement learning to build a simulated navigation agent. This project involved modeling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
+As part of my Udacity Machine Learning Nanodegree, I applied reinforcement learning to build a simulated navigation agent. This project involved modelling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
 
 See my completed submission, including my analysis and optimisation [here](https://github.com/robertyoung2/Train-a-Smartcab-to-Drive/blob/master/smartcab.ipynb).
 
